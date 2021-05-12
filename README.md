@@ -34,10 +34,10 @@
 
 <a href="https://github.com/anodeus">
  
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=cathodeus&count_private=true&include_all_commits=true&theme=radical" />
+ <img hight="320" width="450" align="right" src="https://github-readme-stats.vercel.app/api?username=cathodeus&count_private=true&include_all_commits=true&theme=radical" />
 
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathodeus&theme=light&hide_langs_below=1" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathodeus&theme=radical&hide_langs_below=1" />
  
 
 
