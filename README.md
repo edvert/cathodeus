@@ -23,8 +23,9 @@
 - ✨ Finding Hacks
 - ✨ Surfing on Internet
 
-
-[![Abhi's github stats](https://github-readme-stats.vercel.app/api?username=cathodeus&count_private=true&include_all_commits=true&theme=radical)](https://github.com/cathodeus)
+<p align="center">
+(https://github-readme-stats.vercel.app/api?username=cathodeus&count_private=true&include_all_commits=true&theme=radical)](https://github.com/cathodeus)
+  </p>
 
 
 =======
