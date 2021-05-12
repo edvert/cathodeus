@@ -23,10 +23,9 @@
 - ✨ Finding Hacks
 - ✨ Surfing on Internet
 
-[(https://github-readme-stats.vercel.app/api?username=cathodeus&count_private=true&include_all_commits=true&theme=radical)](https://github.com/cathodeus)
 <a href="https://github.com/anodeus">
  
- <img src="https://github-readme-stats.vercel.app/api?username=cathodeus&count_private=true&include_all_commits=true&theme=radical" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=cathodeus&count_private=true&include_all_commits=true&theme=radical" />
 
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathodeus&theme=light&hide_langs_below=1" />
