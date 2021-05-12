@@ -6,8 +6,6 @@
 - 💞️ I’m looking to collaborate on Projects
 - 📫 You can reach me by <a href="mailto:abhisinghkirad7@gmail.com">@cathodeus</a>
 
-
-
 # About ME 💬 :
 
 ### - I'm 18 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
