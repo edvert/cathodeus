@@ -23,7 +23,7 @@
 - ✨ Finding Hacks
 - ✨ Surfing on Internet
 
-(https://github-readme-stats.vercel.app/api?username=cathodeus&count_private=true&include_all_commits=true&theme=radical)](https://github.com/cathodeus)
+[(https://github-readme-stats.vercel.app/api?username=cathodeus&count_private=true&include_all_commits=true&theme=radical)](https://github.com/cathodeus)
 
 
 
