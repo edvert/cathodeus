@@ -1,11 +1,11 @@
-# cathodeus<img src="https://komarev.com/ghpvc/?username=anodeus&style=flat-square" alt="anodeus"/>
+# EDVERT<img src="https://komarev.com/ghpvc/?username=anodeus&style=flat-square" alt="anodeus"/>
 
 
-- 👋 Hi, I’m @cathodeus
+- 👋 Hi, I’m @edvert
 - 👀 I’m interested in Exploring
 - 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate on Projects
-- 📫 You can reach me by <a href="mailto:abhisinghkirad7@gmail.com">@cathodeus</a>
+- 📫 You can reach me by <a href="mailto:abhisinghkirad7@gmail.com">@edvert</a>
 
 # About ME 💬 :
 
@@ -35,10 +35,10 @@
 
 <a href="https://github.com/anodeus">
  
- <img hight="320" width="450" align="right" src="https://github-readme-stats.vercel.app/api?username=cathodeus&count_private=true&include_all_commits=true&theme=radical" />
+ <img hight="320" width="450" align="right" src="https://github-readme-stats.vercel.app/api?username=edvert&count_private=true&include_all_commits=true&theme=radical" />
 
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathodeus&theme=radical&hide_langs_below=1" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvert&theme=radical&hide_langs_below=1" />
  
 
 
